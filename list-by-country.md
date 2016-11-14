@@ -240,13 +240,20 @@
 
 # Czechia (The Czech republic)
 ## Codexes
+
 [Official site of the government](http://portal.gov.cz/app/zakony/?path=/portal/obcan/)
+
 [Unofficial free site](http://portal.gov.cz/app/zakony/?path=/portal/obcan/)
 Very reliable and mostly used by lawyers. It consist from consolidated of texts (always actual versions of written law)
+
 ## Case law
+
 [The Constitutional Court](http://nalus.usoud.cz/Search/Search.aspx)
+
 [The Supreme Court of the Czech Republic](http://www.nsoud.cz/JudikaturaNS_new/ns_web.nsf/WebSpreadSearch)
+
 [The Suprime Administrative Court of the Czech Republic](http://nssoud.cz/main0col.aspx?cls=JudikaturaBasicSearch&pageSource=0)
+
 [Local courts](http://www.nsoud.cz/Judikaturans_new/judikatura_vks.nsf/webSpreadSearch)
 
 
@@ -832,10 +839,15 @@ Very reliable and mostly used by lawyers. It consist from consolidated of texts 
 
 # Slovakia (The Slovak Republic)
 ## Codexes
+
 [Official site of the government](https://www.slov-lex.sk/ezz)
+
 [Unofficial free site](http://portal.gov.cz/app/zakony/?path=/portal/obcan/)
+
 Very reliable and mostly used by lawyers. It consist from consolidated of texts (always actual versions of written law)
+
 ## Case law
+
 [Official site of the government](https://obcan.justice.sk/infosud/-/infosud/zoznam/rozhodnutie)
 
 

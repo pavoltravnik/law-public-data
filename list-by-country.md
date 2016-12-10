@@ -222,6 +222,13 @@
 ## Codexes
 ## Case law
 
+[The Constitutional Court of Croatia](http://www.usud.hr/hr/prema-datumu-donosenja-odluka)
+
+[The Constitutional Court of Croatia - set of few decisions in English](http://www.usud.hr/en/date-decision-ruling)
+
+[The Supreme court of Croatia](https://sudskapraksa.csp.vsrh.hr/search)
+
+
 
 # Cuba
 ## Codexes
@@ -263,6 +270,7 @@ Very reliable and mostly used by lawyers. It consists of consolidated texts (alw
 ## Case law
 
 [The Supreme Court of Danmark](http://domstol.fe1.tangora.com/New-S%C3%B8geside.31488.aspx)
+
 [The High Court - Western High Cour - hears cases of Jutland] ()
 
 # Djibouti

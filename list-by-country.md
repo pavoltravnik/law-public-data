@@ -243,8 +243,8 @@
 
 [Official site of the government](http://portal.gov.cz/app/zakony/?path=/portal/obcan/)
 
-[Unofficial free site](http://portal.gov.cz/app/zakony/?path=/portal/obcan/)
-Very reliable and mostly used by lawyers. It consist from consolidated of texts (always actual versions of written law)
+[Unofficial free site](http://www.zakonyprolidi.cz)
+Very reliable and mostly used by lawyers. It consists of consolidated texts (always up-to-date versions of written law)
 
 ## Case law
 
@@ -259,8 +259,11 @@ Very reliable and mostly used by lawyers. It consist from consolidated of texts 
 
 # Denmark
 ## Codexes
+
 ## Case law
 
+[The Supreme Court of Danmark](http://domstol.fe1.tangora.com/New-S%C3%B8geside.31488.aspx)
+[The High Court - Western High Cour - hears cases of Jutland] ()
 
 # Djibouti
 ## Codexes
